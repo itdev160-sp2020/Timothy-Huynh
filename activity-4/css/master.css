@@ -1,0 +1,59 @@
+body {
+font-family: sans-serif, 'Times New Roman', Times, serif;
+color: lightskyblue;
+background-color: slategrey;
+}
+
+h1 {
+color: rgb(112, 128, 144);
+text-align: center;
+}
+
+[class|=top] {
+background: #ffff00;
+}
+
+img {
+height: 675px;
+width: 1100px;
+}
+
+figcaption {
+text-align: center;
+color: snow;
+font-size: 2em;
+}
+
+figcaption span {
+font-style: italic;
+}
+
+h2 {
+color: yellow;
+text-align: center;
+font-style: italic;
+}
+
+p#product-description {
+margin: 20px 0 20px 0;
+text-align: justify;
+}
+
+div.review {
+padding: 10px;
+background-color: #eee;
+margin: 20px 0 20px 0;
+text-align: center;
+font-style: italic;
+font-family: fantasy;
+}
+
+h3 {
+font-variant: small-caps;
+color: slategrey;
+}
+
+footer {
+text-align: center;
+color: #ffff00;
+}
