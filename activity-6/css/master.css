@@ -1,0 +1,43 @@
+body {
+    max-width: 500px;
+    margin: 0 auto;
+    background-color: gray;
+}
+
+header {
+    background-color: gray;
+    color: rgb(124, 218, 235);
+    text-align: center;
+}
+
+.messages {
+    margin-bottom: 20px;
+}
+
+.out-message {
+    padding: 5px;
+    color: rgb(87, 87, 87);
+    background-color: rgb(124, 218, 235);
+}
+
+.in-message {
+    padding: 5px;
+    color: rgb(87, 87, 87);
+    background-color: rgb(250, 252, 253);
+}
+
+#send-button {
+    color: rgb(87, 87, 87);
+    background-color: rgb(124, 218, 235);
+}
+
+#reply-button {
+    color: rgb(87, 87, 87);
+    background-color: rgb(250, 252, 253);
+}
+
+footer {
+    color: seashell;
+    text-align: center;
+    margin-top: .5em;
+}
